@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.nacos:nacos-spring-context:1.1.0-hs-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-spring-context/1.1.0-hs-SNAPSHOT/nacos-spring-context-1.1.0-hs-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-spring-context/1.1.0-hs-SNAPSHOT/nacos-spring-context-1.1.0-hs-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-spring-context/1.1.0-hs-SNAPSHOT/nacos-spring-context-1.1.0-hs-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

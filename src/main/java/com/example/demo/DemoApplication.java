@@ -1,0 +1,28 @@
+package com.example.demo;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.*;
+import org.springframework.stereotype.Controller;
+
+@SpringBootApplication
+@PropertySources({
+        @PropertySource(value = "classpath:others.properties")
+})
+@ImportResource({
+        "classpath:/hs-fund-srv-client-config/context-client.xml"
+
+})
+
+public class DemoApplication {
+    @Value("${hs.fund.srv.dubbo.registry.client}")
+    static String a;
+
+    public static void main(String[] args) {
+        SpringApplication.run(DemoApplication.class, args);
+        System.out.println("--------------" + a);
+
+    }
+
+}

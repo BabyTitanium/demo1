@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="rocketmq-broker-4.3.0">
+    <CLASSES>
+      <root url="jar://D:/rocketmq/lib/rocketmq-broker-4.3.0.jar!/" />
+      <root url="jar://D:/rocketmq/lib/rocketmq-client-4.3.0.jar!/" />
+      <root url="jar://D:/rocketmq/lib/rocketmq-tools-4.3.0.jar!/" />
+      <root url="jar://D:/rocketmq/lib/rocketmq-example-4.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
