@@ -7,14 +7,6 @@ import org.springframework.context.annotation.*;
 import org.springframework.stereotype.Controller;
 
 @SpringBootApplication
-@PropertySources({
-        @PropertySource(value = "classpath:others.properties")
-})
-@ImportResource({
-        "classpath:/hs-fund-srv-client-config/context-client.xml"
-
-})
-
 public class DemoApplication {
     @Value("${hs.fund.srv.dubbo.registry.client}")
     static String a;

@@ -3,14 +3,12 @@ package com.example.demo;
 import org.springframework.context.annotation.*;
 
 
-//@Configuration
-//
-//@ImportResource({
-//		"classpath:/hs-fund-srv-client-config/context-client.xml"
-//
-//})
-//@PropertySources({
-//		@PropertySource(value = "classpath:others.properties")
-//})
+@PropertySources({
+        @PropertySource(value = "classpath:others.properties"),
+
+        @PropertySource(value = "classpath:/hs-fund-srv-client-properties/hs-fund-srv-client-env.properties"),
+
+})
+@Configuration
 public class DevConfig {
 }
