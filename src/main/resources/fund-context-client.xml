@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+		http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context
+		http://www.springframework.org/schema/context/spring-context.xsd" default-lazy-init="true">
+    <context:component-scan base-package="com.huasheng.fund.client" >
+
+    </context:component-scan>
+
+    <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+        <property name="location" value="file:${appHome}/hs-fund-srv-client-env.properties" />
+        <property name="ignoreResourceNotFound" value="true" />
+        <property name="ignoreUnresolvablePlaceholders" value="true" />
+        <property name="properties">
+            <bean
+                    class="org.springframework.beans.factory.config.PropertiesFactoryBean">
+                <property name="location"
+                          value="classpath:/hs-fund-srv-client-properties/hs-fund-srv-client-env.properties" />
+
+                <property name="locations">
+                    <list>
+                        <value>classpath:/hs-fund-srv-client-properties/hs-fund-srv-client-env.properties</value>
+                        <value>others.properties</value>
+                    </list>
+                </property>
+            </bean>
+        </property>
+    </bean>
+
+    <import resource="classpath*:/hs-fund-srv-client-config/dubbo-config.xml" />
+    <import resource="classpath*:/hs-fund-srv-client-config/dubbo-consumer-client.xml" />
+
+</beans>

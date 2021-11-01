@@ -1,8 +1,9 @@
 package com.example.demo.vo;
 
+import java.io.Serializable;
 import java.time.LocalDate;
 
-public class OfficeNavQueryParamVo {
+public class OfficeNavQueryParamVo implements Serializable {
     Long productId;
     String classId;
     LocalDate navDate;
