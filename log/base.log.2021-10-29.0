@@ -1,0 +1,33 @@
+2021-10-29 17:24:50,713 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 5252 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-10-29 17:24:50,715 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-10-29 17:24:50,716 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-10-29 17:25:26,530 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 45228 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-10-29 17:25:26,533 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-10-29 17:25:26,534 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-10-29 17:27:55,090 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 15392 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-10-29 17:27:55,093 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-10-29 17:27:55,094 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-10-29 17:30:00,431 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 66484 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-10-29 17:30:00,434 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-10-29 17:30:00,434 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-10-29 17:39:25,422 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 70136 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-10-29 17:39:25,425 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-10-29 17:39:25,425 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-10-29 17:40:29,416 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 17848 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-10-29 17:40:29,418 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-10-29 17:40:29,419 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-10-29 17:41:11,208 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 67264 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-10-29 17:41:11,211 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-10-29 17:41:11,211 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-10-29 17:45:24,603 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 58700 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-10-29 17:45:24,606 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-10-29 17:45:24,606 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-10-29 17:46:02,387 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 37712 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-10-29 17:46:02,389 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-10-29 17:46:02,390 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-10-29 17:46:23,628 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 23668 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-10-29 17:46:23,631 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-10-29 17:46:23,632 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-10-29 17:47:40,904 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 61924 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-10-29 17:47:40,907 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-10-29 17:47:40,907 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default

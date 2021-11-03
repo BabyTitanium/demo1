@@ -1,0 +1,705 @@
+2021-11-01 10:52:15,752 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 46752 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 10:52:15,756 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 10:52:15,757 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:06:16,320 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 70144 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:06:16,323 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:06:16,324 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:26:01,401 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 6880 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:26:01,403 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:26:01,404 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:33:00,403 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 44004 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:33:00,405 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:33:00,406 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:33:27,088 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 57568 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:33:27,090 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:33:27,090 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:34:28,114 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 71928 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:34:28,116 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:34:28,116 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:35:08,407 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 30748 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:35:08,409 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:35:08,410 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:36:17,660 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 37112 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:36:17,669 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:36:17,670 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:36:37,896 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 13996 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:36:37,898 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:36:37,899 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:39:02,283 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 5048 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:39:02,288 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:39:02,289 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:42:05,581 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 57132 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:42:05,584 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:42:05,584 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:42:09,165 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 4.15 seconds (JVM running for 5.426)
+2021-11-01 11:42:26,868 INFO (IndexController.java:37)- curator
+2021-11-01 11:44:17,766 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 47428 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:44:17,768 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:44:17,768 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:44:20,441 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.058 seconds (JVM running for 3.932)
+2021-11-01 11:45:14,799 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 40848 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:45:14,801 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:45:14,803 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:45:17,481 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.109 seconds (JVM running for 3.948)
+2021-11-01 11:46:56,790 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 58776 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:46:56,794 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:46:56,794 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:47:01,906 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 6.677 seconds (JVM running for 8.321)
+2021-11-01 11:47:22,822 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 70592 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:47:22,824 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:47:22,825 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:47:25,999 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.671 seconds (JVM running for 5.05)
+2021-11-01 11:47:35,150 INFO (IndexController.java:38)- curator
+2021-11-01 11:59:49,039 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 46756 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 11:59:49,041 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 11:59:49,041 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 11:59:51,815 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.182 seconds (JVM running for 4.122)
+2021-11-01 12:02:25,013 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 17088 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 12:02:25,016 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 12:02:25,016 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 12:02:28,225 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.687 seconds (JVM running for 4.876)
+2021-11-01 13:39:17,100 INFO (IndexController.java:41)- curator
+2021-11-01 13:39:32,570 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 56436 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 13:39:32,573 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 13:39:32,573 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 13:39:35,342 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.144 seconds (JVM running for 4.038)
+2021-11-01 13:40:07,811 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 32528 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 13:40:07,814 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 13:40:07,815 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 13:40:10,853 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.58 seconds (JVM running for 4.916)
+2021-11-01 13:40:55,589 INFO (IndexController.java:54)- com.huasheng.fund.common.channel.domain.gaoteng.GaotengNetOfficeNav@705ef784
+2021-11-01 13:40:58,681 INFO (IndexController.java:57)- com.huasheng.fund.common.channel.domain.gaoteng.SevenDayIncome@2063163a
+2021-11-01 13:40:58,812 INFO (IndexController.java:60)- com.huasheng.fund.common.channel.domain.gaoteng.GaotengNetOfficeNav@705ef784
+2021-11-01 13:46:24,229 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 18872 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 13:46:24,232 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 13:46:24,232 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 13:46:27,361 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.604 seconds (JVM running for 4.709)
+2021-11-01 13:47:54,501 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 67492 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 13:47:54,503 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 13:47:54,504 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 13:47:57,578 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.585 seconds (JVM running for 4.588)
+2021-11-01 14:02:04,103 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 63816 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 14:02:04,105 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 14:02:04,106 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 14:02:07,193 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.513 seconds (JVM running for 4.414)
+2021-11-01 14:07:29,086 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 47884 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 14:07:29,088 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 14:07:29,089 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 14:07:31,786 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.137 seconds (JVM running for 4.018)
+2021-11-01 14:07:46,354 ERROR (IndexController.java:98)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:08:37,010 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 71844 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 14:08:37,013 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 14:08:37,014 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 14:08:39,894 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.296 seconds (JVM running for 4.189)
+2021-11-01 14:08:48,798 ERROR (IndexController.java:97)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:10:27,642 ERROR (IndexController.java:111)- 净值日期不存在 navDate=2021-09-11
+2021-11-01 14:14:52,496 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 42712 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 14:14:52,499 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 14:14:52,500 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 14:14:55,557 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.58 seconds (JVM running for 5.036)
+2021-11-01 14:15:07,213 ERROR (IndexController.java:101)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:15:07,213 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:15:07,607 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-01
+2021-11-01 14:15:07,998 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-02
+2021-11-01 14:15:08,391 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-03
+2021-11-01 14:15:10,717 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-09
+2021-11-01 14:15:11,107 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-10
+2021-11-01 14:15:13,471 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-16
+2021-11-01 14:15:13,847 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-17
+2021-11-01 14:15:16,135 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-23
+2021-11-01 14:15:16,504 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-24
+2021-11-01 14:15:18,788 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-30
+2021-11-01 14:15:19,162 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-31
+2021-11-01 14:15:21,422 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-06
+2021-11-01 14:15:21,828 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-07
+2021-11-01 14:15:24,013 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-12
+2021-11-01 14:15:24,388 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-13
+2021-11-01 14:15:24,754 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-14
+2021-11-01 14:15:25,137 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-15
+2021-11-01 14:15:26,989 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-20
+2021-11-01 14:15:27,388 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-21
+2021-11-01 14:15:31,192 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-27
+2021-11-01 14:15:31,584 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-28
+2021-11-01 14:15:33,992 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-06
+2021-11-01 14:15:34,421 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-07
+2021-11-01 14:15:36,680 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-13
+2021-11-01 14:15:37,054 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-14
+2021-11-01 14:15:39,388 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-20
+2021-11-01 14:15:39,771 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-21
+2021-11-01 14:15:42,005 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-27
+2021-11-01 14:15:42,384 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-28
+2021-11-01 14:15:44,305 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-02
+2021-11-01 14:15:44,668 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-03
+2021-11-01 14:15:45,052 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-04
+2021-11-01 14:15:45,436 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-05
+2021-11-01 14:15:45,838 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-06
+2021-11-01 14:15:47,334 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-10
+2021-11-01 14:15:47,711 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-11
+2021-11-01 14:15:49,959 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-17
+2021-11-01 14:15:50,333 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-18
+2021-11-01 14:15:52,619 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-24
+2021-11-01 14:15:53,005 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-25
+2021-11-01 14:15:55,241 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-01
+2021-11-01 14:15:55,615 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-02
+2021-11-01 14:15:57,866 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-08
+2021-11-01 14:15:58,263 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-09
+2021-11-01 14:16:00,499 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-15
+2021-11-01 14:16:00,885 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-16
+2021-11-01 14:16:02,075 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-19
+2021-11-01 14:16:03,175 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-22
+2021-11-01 14:16:03,561 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-23
+2021-11-01 14:16:05,879 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-29
+2021-11-01 14:16:06,242 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-30
+2021-11-01 14:16:08,729 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-05
+2021-11-01 14:16:09,098 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-06
+2021-11-01 14:16:11,373 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-12
+2021-11-01 14:16:11,758 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-13
+2021-11-01 14:16:12,120 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-14
+2021-11-01 14:16:13,986 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-19
+2021-11-01 14:16:14,357 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-20
+2021-11-01 14:16:16,601 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-26
+2021-11-01 14:16:16,979 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-27
+2021-11-01 14:16:18,456 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-01
+2021-11-01 14:16:19,205 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-03
+2021-11-01 14:16:19,579 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-04
+2021-11-01 14:16:21,841 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-10
+2021-11-01 14:16:22,214 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-11
+2021-11-01 14:16:24,474 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-17
+2021-11-01 14:16:24,836 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-18
+2021-11-01 14:16:27,081 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-24
+2021-11-01 14:16:27,452 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-25
+2021-11-01 14:16:29,740 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-31
+2021-11-01 14:16:30,127 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-01
+2021-11-01 14:16:32,393 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-07
+2021-11-01 14:16:32,766 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-08
+2021-11-01 14:16:34,991 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-14
+2021-11-01 14:16:35,402 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-15
+2021-11-01 14:16:37,657 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-21
+2021-11-01 14:16:38,034 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-22
+2021-11-01 14:16:40,278 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-28
+2021-11-01 14:16:40,647 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-29
+2021-11-01 14:16:42,934 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-04
+2021-11-01 14:16:43,305 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-05
+2021-11-01 14:16:45,536 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-11
+2021-11-01 14:16:45,910 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-12
+2021-11-01 14:16:48,141 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-18
+2021-11-01 14:16:48,538 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-19
+2021-11-01 14:16:49,664 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-22
+2021-11-01 14:16:51,058 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-25
+2021-11-01 14:16:51,436 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-26
+2021-11-01 14:16:53,340 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-01
+2021-11-01 14:16:53,724 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-02
+2021-11-01 14:16:54,092 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-03
+2021-11-01 14:16:56,328 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-09
+2021-11-01 14:16:56,701 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-10
+2021-11-01 14:16:57,812 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-13
+2021-11-01 14:16:58,176 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-14
+2021-11-01 14:16:58,901 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-16
+2021-11-01 14:16:59,275 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-17
+2021-11-01 14:17:01,645 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-23
+2021-11-01 14:17:02,030 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-24
+2021-11-01 14:17:04,258 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-30
+2021-11-01 14:17:04,628 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-31
+2021-11-01 14:17:05,013 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-11-01
+2021-11-01 14:21:02,173 ERROR (IndexController.java:101)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:21:02,173 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:21:02,544 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-01
+2021-11-01 14:21:02,923 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-02
+2021-11-01 14:21:03,302 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-03
+2021-11-01 14:21:05,583 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-09
+2021-11-01 14:21:05,975 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-10
+2021-11-01 14:21:08,203 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-16
+2021-11-01 14:21:08,610 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-17
+2021-11-01 14:21:10,876 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-23
+2021-11-01 14:21:11,258 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-24
+2021-11-01 14:21:13,481 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-30
+2021-11-01 14:21:13,889 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-01-31
+2021-11-01 14:21:16,162 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-06
+2021-11-01 14:21:16,525 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-07
+2021-11-01 14:21:18,397 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-12
+2021-11-01 14:21:18,779 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-13
+2021-11-01 14:21:19,158 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-14
+2021-11-01 14:21:19,544 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-15
+2021-11-01 14:21:21,377 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-20
+2021-11-01 14:21:21,756 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-21
+2021-11-01 14:21:24,056 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-27
+2021-11-01 14:21:24,436 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-02-28
+2021-11-01 14:21:26,686 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-06
+2021-11-01 14:21:27,062 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-07
+2021-11-01 14:21:29,330 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-13
+2021-11-01 14:21:29,720 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-14
+2021-11-01 14:21:32,006 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-20
+2021-11-01 14:21:32,366 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-21
+2021-11-01 14:21:34,579 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-27
+2021-11-01 14:21:34,963 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-03-28
+2021-11-01 14:21:36,840 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-02
+2021-11-01 14:21:37,232 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-03
+2021-11-01 14:21:37,627 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-04
+2021-11-01 14:21:37,994 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-05
+2021-11-01 14:21:38,401 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-06
+2021-11-01 14:21:39,900 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-10
+2021-11-01 14:21:40,269 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-11
+2021-11-01 14:21:42,533 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-17
+2021-11-01 14:21:42,893 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-18
+2021-11-01 14:21:45,121 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-24
+2021-11-01 14:21:45,497 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-04-25
+2021-11-01 14:21:47,755 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-01
+2021-11-01 14:21:48,148 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-02
+2021-11-01 14:21:50,369 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-08
+2021-11-01 14:21:50,733 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-09
+2021-11-01 14:21:53,024 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-15
+2021-11-01 14:21:53,377 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-16
+2021-11-01 14:21:54,483 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-19
+2021-11-01 14:21:55,623 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-22
+2021-11-01 14:21:55,984 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-23
+2021-11-01 14:21:58,242 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-29
+2021-11-01 14:21:58,609 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-05-30
+2021-11-01 14:22:00,877 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-05
+2021-11-01 14:22:01,278 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-06
+2021-11-01 14:22:03,873 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-12
+2021-11-01 14:22:04,255 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-13
+2021-11-01 14:22:04,643 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-14
+2021-11-01 14:22:06,516 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-19
+2021-11-01 14:22:06,883 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-20
+2021-11-01 14:22:09,144 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-26
+2021-11-01 14:22:09,509 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-06-27
+2021-11-01 14:22:11,007 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-01
+2021-11-01 14:22:11,744 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-03
+2021-11-01 14:22:12,131 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-04
+2021-11-01 14:22:14,325 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-10
+2021-11-01 14:22:14,697 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-11
+2021-11-01 14:22:16,952 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-17
+2021-11-01 14:22:17,318 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-18
+2021-11-01 14:22:19,563 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-24
+2021-11-01 14:22:19,937 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-25
+2021-11-01 14:22:22,187 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-07-31
+2021-11-01 14:22:22,552 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-01
+2021-11-01 14:22:24,828 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-07
+2021-11-01 14:22:25,209 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-08
+2021-11-01 14:22:27,423 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-14
+2021-11-01 14:22:27,783 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-15
+2021-11-01 14:22:30,025 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-21
+2021-11-01 14:22:30,424 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-22
+2021-11-01 14:22:32,676 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-28
+2021-11-01 14:22:33,030 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-08-29
+2021-11-01 14:22:35,269 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-04
+2021-11-01 14:22:35,638 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-05
+2021-11-01 14:22:37,900 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-11
+2021-11-01 14:22:38,249 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-12
+2021-11-01 14:22:40,497 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-18
+2021-11-01 14:22:40,878 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-19
+2021-11-01 14:22:41,967 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-22
+2021-11-01 14:22:43,109 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-25
+2021-11-01 14:22:43,482 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-09-26
+2021-11-01 14:22:45,413 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-01
+2021-11-01 14:22:45,801 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-02
+2021-11-01 14:22:46,204 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-03
+2021-11-01 14:22:48,401 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-09
+2021-11-01 14:22:48,784 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-10
+2021-11-01 14:22:49,883 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-13
+2021-11-01 14:22:50,265 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-14
+2021-11-01 14:22:51,001 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-16
+2021-11-01 14:22:51,373 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-17
+2021-11-01 14:22:53,662 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-23
+2021-11-01 14:22:54,039 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-24
+2021-11-01 14:22:56,292 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-30
+2021-11-01 14:22:56,661 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-10-31
+2021-11-01 14:22:57,025 ERROR (IndexController.java:108)- 查询七日年化失败 navDate=2021-11-01
+2021-11-01 14:27:10,368 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 51824 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 14:27:10,375 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 14:27:10,376 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 14:27:13,961 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 4.131 seconds (JVM running for 5.215)
+2021-11-01 14:27:36,180 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:27:36,181 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:27:36,570 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-01
+2021-11-01 14:27:36,947 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-02
+2021-11-01 14:27:37,341 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-03
+2021-11-01 14:27:39,697 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-09
+2021-11-01 14:27:40,058 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-10
+2021-11-01 14:27:42,339 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-16
+2021-11-01 14:27:42,717 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-17
+2021-11-01 14:27:45,075 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-23
+2021-11-01 14:27:45,437 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-24
+2021-11-01 14:27:47,747 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-30
+2021-11-01 14:27:48,124 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-31
+2021-11-01 14:27:50,400 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-06
+2021-11-01 14:27:50,769 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-07
+2021-11-01 14:27:52,681 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-12
+2021-11-01 14:27:53,059 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-13
+2021-11-01 14:27:53,446 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-14
+2021-11-01 14:27:53,805 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-15
+2021-11-01 14:27:55,666 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-20
+2021-11-01 14:27:56,075 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-21
+2021-11-01 14:27:58,340 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-27
+2021-11-01 14:27:58,723 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-28
+2021-11-01 14:28:01,031 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-06
+2021-11-01 14:28:01,397 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-07
+2021-11-01 14:28:03,753 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-13
+2021-11-01 14:28:04,144 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-14
+2021-11-01 14:28:06,629 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-20
+2021-11-01 14:28:07,000 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-21
+2021-11-01 14:28:09,225 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-27
+2021-11-01 14:28:09,624 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-28
+2021-11-01 14:28:11,486 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-02
+2021-11-01 14:28:11,871 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-03
+2021-11-01 14:28:12,248 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-04
+2021-11-01 14:28:12,625 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-05
+2021-11-01 14:28:12,990 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-06
+2021-11-01 14:28:14,516 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-10
+2021-11-01 14:28:14,897 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-11
+2021-11-01 14:28:17,145 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-17
+2021-11-01 14:28:17,530 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-18
+2021-11-01 14:28:19,742 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-24
+2021-11-01 14:28:20,097 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-25
+2021-11-01 14:28:22,388 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-01
+2021-11-01 14:28:22,765 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-02
+2021-11-01 14:28:25,002 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-08
+2021-11-01 14:28:25,370 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-09
+2021-11-01 14:28:27,615 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-15
+2021-11-01 14:28:27,983 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-16
+2021-11-01 14:28:29,113 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-19
+2021-11-01 14:28:30,233 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-22
+2021-11-01 14:28:30,612 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-23
+2021-11-01 14:28:32,870 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-29
+2021-11-01 14:28:33,241 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-30
+2021-11-01 14:28:35,436 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-05
+2021-11-01 14:28:35,853 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-06
+2021-11-01 14:28:38,089 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-12
+2021-11-01 14:28:38,452 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-13
+2021-11-01 14:28:38,830 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-14
+2021-11-01 14:28:40,735 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-19
+2021-11-01 14:28:41,121 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-20
+2021-11-01 14:28:43,456 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-26
+2021-11-01 14:28:43,829 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-27
+2021-11-01 14:28:45,373 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-01
+2021-11-01 14:28:46,130 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-03
+2021-11-01 14:28:46,513 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-04
+2021-11-01 14:28:48,759 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-10
+2021-11-01 14:28:49,125 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-11
+2021-11-01 14:28:55,727 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-17
+2021-11-01 14:28:58,972 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-18
+2021-11-01 14:29:17,181 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-24
+2021-11-01 14:29:18,661 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-25
+2021-11-01 14:29:20,964 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-31
+2021-11-01 14:29:21,329 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-08-01
+2021-11-01 14:29:23,995 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-08-07
+2021-11-01 14:29:24,351 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-08-08
+2021-11-01 14:29:39,756 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 21844 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 14:29:39,762 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 14:29:39,763 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 14:29:43,209 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 4.125 seconds (JVM running for 5.555)
+2021-11-01 14:29:55,534 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:29:55,534 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:29:55,905 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:29:55,906 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:29:56,280 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:29:56,280 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:29:56,643 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:29:56,643 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:29:57,019 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:29:57,019 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:29:57,418 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:29:57,420 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:29:57,806 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:29:57,806 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:29:58,190 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:29:58,191 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:29:58,570 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:29:58,570 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:29:58,957 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:29:58,958 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:29:59,335 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:29:59,335 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:29:59,754 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:29:59,755 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:00,157 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:00,158 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:00,491 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:00,492 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:00,783 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:00,784 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:01,184 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:01,184 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:01,801 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:01,801 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:02,246 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:02,247 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:02,658 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:02,658 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:03,046 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:03,046 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:03,420 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:03,421 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:03,805 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:03,805 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:04,182 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:04,183 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:04,561 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:04,562 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:04,951 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:04,951 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:05,322 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:05,322 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:05,702 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:05,703 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:06,092 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:06,092 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:06,475 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:06,476 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:06,867 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:06,867 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:07,247 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:07,247 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:07,626 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:07,626 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:07,994 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:07,995 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:08,378 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:08,378 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:08,757 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:08,758 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:09,139 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:09,140 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:09,511 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:30:09,511 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:30:28,090 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 48616 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 14:30:28,095 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 14:30:28,095 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 14:30:31,148 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.53 seconds (JVM running for 4.536)
+2021-11-01 14:31:09,351 ERROR (IndexController.java:102)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:31:09,352 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:32:06,347 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-01
+2021-11-01 14:32:09,533 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-02
+2021-11-01 14:32:09,943 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-03
+2021-11-01 14:32:12,468 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-09
+2021-11-01 14:32:12,848 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-10
+2021-11-01 14:32:15,137 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-16
+2021-11-01 14:32:15,522 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-17
+2021-11-01 14:32:17,838 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-23
+2021-11-01 14:32:18,237 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-24
+2021-11-01 14:32:20,954 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-30
+2021-11-01 14:32:21,391 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-01-31
+2021-11-01 14:32:23,804 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-06
+2021-11-01 14:32:24,166 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-07
+2021-11-01 14:32:26,120 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-12
+2021-11-01 14:32:26,495 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-13
+2021-11-01 14:32:26,862 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-14
+2021-11-01 14:32:27,268 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-15
+2021-11-01 14:32:29,171 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-20
+2021-11-01 14:32:29,548 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-21
+2021-11-01 14:32:31,853 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-27
+2021-11-01 14:32:32,222 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-02-28
+2021-11-01 14:32:34,491 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-06
+2021-11-01 14:32:34,879 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-07
+2021-11-01 14:32:37,158 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-13
+2021-11-01 14:32:37,544 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-14
+2021-11-01 14:32:39,793 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-20
+2021-11-01 14:32:40,181 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-21
+2021-11-01 14:32:42,432 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-27
+2021-11-01 14:32:42,806 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-03-28
+2021-11-01 14:32:44,660 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-02
+2021-11-01 14:32:45,035 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-03
+2021-11-01 14:32:45,414 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-04
+2021-11-01 14:32:45,801 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-05
+2021-11-01 14:32:46,166 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-06
+2021-11-01 14:32:47,674 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-10
+2021-11-01 14:32:48,044 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-11
+2021-11-01 14:32:50,316 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-17
+2021-11-01 14:32:50,690 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-18
+2021-11-01 14:32:52,943 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-24
+2021-11-01 14:32:53,310 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-04-25
+2021-11-01 14:32:55,553 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-01
+2021-11-01 14:32:55,934 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-02
+2021-11-01 14:32:58,343 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-08
+2021-11-01 14:32:58,722 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-09
+2021-11-01 14:33:00,975 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-15
+2021-11-01 14:33:01,358 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-16
+2021-11-01 14:33:02,530 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-19
+2021-11-01 14:33:03,626 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-22
+2021-11-01 14:33:03,987 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-23
+2021-11-01 14:33:06,217 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-29
+2021-11-01 14:33:06,601 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-05-30
+2021-11-01 14:33:08,886 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-05
+2021-11-01 14:33:09,282 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-06
+2021-11-01 14:33:11,817 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-12
+2021-11-01 14:33:12,183 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-13
+2021-11-01 14:33:12,547 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-14
+2021-11-01 14:33:14,563 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-19
+2021-11-01 14:33:14,973 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-20
+2021-11-01 14:33:17,207 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-26
+2021-11-01 14:33:17,640 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-06-27
+2021-11-01 14:33:19,236 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-01
+2021-11-01 14:33:19,991 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-03
+2021-11-01 14:33:20,358 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-04
+2021-11-01 14:33:22,732 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-10
+2021-11-01 14:33:23,105 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-11
+2021-11-01 14:33:25,349 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-17
+2021-11-01 14:33:25,717 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-18
+2021-11-01 14:33:28,124 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-24
+2021-11-01 14:33:28,571 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-25
+2021-11-01 14:33:30,833 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-07-31
+2021-11-01 14:33:31,307 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-08-01
+2021-11-01 14:33:33,552 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-08-07
+2021-11-01 14:33:33,913 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-08-08
+2021-11-01 14:33:36,194 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-08-14
+2021-11-01 14:33:36,561 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-08-15
+2021-11-01 14:33:38,823 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-08-21
+2021-11-01 14:33:39,202 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-08-22
+2021-11-01 14:33:41,484 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-08-28
+2021-11-01 14:33:41,868 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-08-29
+2021-11-01 14:33:44,097 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-09-04
+2021-11-01 14:33:44,460 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-09-05
+2021-11-01 14:33:46,696 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-09-11
+2021-11-01 14:33:47,061 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-09-12
+2021-11-01 14:33:49,319 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-09-18
+2021-11-01 14:33:49,752 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-09-19
+2021-11-01 14:33:50,866 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-09-22
+2021-11-01 14:33:52,077 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-09-25
+2021-11-01 14:33:52,451 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-09-26
+2021-11-01 14:33:54,486 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-10-01
+2021-11-01 14:33:54,853 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-10-02
+2021-11-01 14:33:55,249 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-10-03
+2021-11-01 14:33:57,497 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-10-09
+2021-11-01 14:33:57,890 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-10-10
+2021-11-01 14:33:59,200 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-10-13
+2021-11-01 14:33:59,631 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-10-14
+2021-11-01 14:34:00,369 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-10-16
+2021-11-01 14:34:00,727 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-10-17
+2021-11-01 14:34:03,064 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-10-23
+2021-11-01 14:34:03,429 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-10-24
+2021-11-01 14:34:05,779 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-10-30
+2021-11-01 14:34:06,163 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-10-31
+2021-11-01 14:34:06,676 ERROR (IndexController.java:109)- 查询七日年化失败 navDate=2021-11-01
+2021-11-01 14:34:40,909 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 7688 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 14:34:40,913 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 14:34:40,913 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 14:34:44,154 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.707 seconds (JVM running for 4.736)
+2021-11-01 14:35:22,273 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-11-01
+2021-11-01 14:35:22,642 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-31
+2021-11-01 14:35:23,109 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-30
+2021-11-01 14:35:25,436 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-24
+2021-11-01 14:35:25,827 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-23
+2021-11-01 14:35:26,360 ERROR (IndexController.java:116)- 净值日期不存在 navDate=2021-10-21
+2021-11-01 14:35:29,225 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-17
+2021-11-01 14:35:29,655 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-16
+2021-11-01 14:35:30,448 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-14
+2021-11-01 14:35:30,837 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-13
+2021-11-01 14:35:31,997 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-10
+2021-11-01 14:35:32,377 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-09
+2021-11-01 14:35:34,614 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-03
+2021-11-01 14:35:34,936 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-02
+2021-11-01 14:35:35,301 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-01
+2021-11-01 14:35:37,258 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-09-26
+2021-11-01 14:35:37,629 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-09-25
+2021-11-01 14:35:38,818 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-09-22
+2021-11-01 14:35:39,957 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-09-19
+2021-11-01 14:35:40,343 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-09-18
+2021-11-01 14:35:42,618 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-09-12
+2021-11-01 14:35:43,013 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-09-11
+2021-11-01 14:35:45,295 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-09-05
+2021-11-01 14:35:45,694 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-09-04
+2021-11-01 14:35:47,967 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-08-29
+2021-11-01 14:35:48,337 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-08-28
+2021-11-01 14:35:50,660 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-08-22
+2021-11-01 14:35:51,042 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-08-21
+2021-11-01 14:35:53,303 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-08-15
+2021-11-01 14:35:53,702 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-08-14
+2021-11-01 14:35:55,960 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-08-08
+2021-11-01 14:35:56,329 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-08-07
+2021-11-01 14:35:58,635 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-08-01
+2021-11-01 14:35:59,030 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-07-31
+2021-11-01 14:36:01,290 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-07-25
+2021-11-01 14:36:01,753 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-07-24
+2021-11-01 14:36:04,021 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-07-18
+2021-11-01 14:36:04,412 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-07-17
+2021-11-01 14:36:06,672 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-07-11
+2021-11-01 14:36:07,046 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-07-10
+2021-11-01 14:36:09,317 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-07-04
+2021-11-01 14:36:09,683 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-07-03
+2021-11-01 14:36:10,423 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-07-01
+2021-11-01 14:36:11,920 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-06-27
+2021-11-01 14:36:12,295 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-06-26
+2021-11-01 14:36:14,595 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-06-20
+2021-11-01 14:36:14,954 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-06-19
+2021-11-01 14:36:16,827 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-06-14
+2021-11-01 14:36:17,214 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-06-13
+2021-11-01 14:36:17,591 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-06-12
+2021-11-01 14:36:19,857 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-06-06
+2021-11-01 14:36:20,232 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-06-05
+2021-11-01 14:36:22,501 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-05-30
+2021-11-01 14:36:22,882 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-05-29
+2021-11-01 14:36:25,150 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-05-23
+2021-11-01 14:36:25,573 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-05-22
+2021-11-01 14:36:26,694 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-05-19
+2021-11-01 14:36:27,808 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-05-16
+2021-11-01 14:36:28,177 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-05-15
+2021-11-01 14:36:30,451 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-05-09
+2021-11-01 14:36:30,820 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-05-08
+2021-11-01 14:36:33,090 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-05-02
+2021-11-01 14:36:33,447 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-05-01
+2021-11-01 14:36:35,656 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-04-25
+2021-11-01 14:36:36,087 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-04-24
+2021-11-01 14:36:38,301 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-04-18
+2021-11-01 14:36:38,659 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-04-17
+2021-11-01 14:36:40,892 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-04-11
+2021-11-01 14:36:41,281 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-04-10
+2021-11-01 14:36:42,768 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-04-06
+2021-11-01 14:36:43,192 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-04-05
+2021-11-01 14:36:43,561 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-04-04
+2021-11-01 14:36:43,922 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-04-03
+2021-11-01 14:36:44,298 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-04-02
+2021-11-01 14:36:46,157 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-03-28
+2021-11-01 14:36:46,525 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-03-27
+2021-11-01 14:36:48,801 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-03-21
+2021-11-01 14:36:49,180 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-03-20
+2021-11-01 14:36:51,468 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-03-14
+2021-11-01 14:36:51,868 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-03-13
+2021-11-01 14:36:54,099 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-03-07
+2021-11-01 14:36:54,491 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-03-06
+2021-11-01 14:36:56,739 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-02-28
+2021-11-01 14:36:57,120 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-02-27
+2021-11-01 14:36:59,382 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-02-21
+2021-11-01 14:36:59,742 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-02-20
+2021-11-01 14:37:01,624 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-02-15
+2021-11-01 14:37:02,031 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-02-14
+2021-11-01 14:37:02,414 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-02-13
+2021-11-01 14:37:02,789 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-02-12
+2021-11-01 14:37:04,630 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-02-07
+2021-11-01 14:37:04,998 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-02-06
+2021-11-01 14:37:07,246 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-01-31
+2021-11-01 14:37:07,634 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-01-30
+2021-11-01 14:37:09,875 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-01-24
+2021-11-01 14:37:10,241 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-01-23
+2021-11-01 14:37:12,531 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-01-17
+2021-11-01 14:37:12,924 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-01-16
+2021-11-01 14:37:15,194 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-01-10
+2021-11-01 14:37:15,574 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-01-09
+2021-11-01 14:37:17,837 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-01-03
+2021-11-01 14:37:18,210 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-01-02
+2021-11-01 14:37:18,582 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-01-01
+2021-11-01 14:37:18,953 ERROR (IndexController.java:103)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:37:18,953 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2020-12-31
+2021-11-01 14:39:43,952 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 29688 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 14:39:43,956 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 14:39:43,957 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 14:39:47,199 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 3.996 seconds (JVM running for 6.038)
+2021-11-01 14:40:20,259 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-11-01
+2021-11-01 14:40:20,636 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-31
+2021-11-01 14:40:21,021 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-30
+2021-11-01 14:40:23,519 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-24
+2021-11-01 14:40:23,920 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-23
+2021-11-01 14:40:55,894 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-17
+2021-11-01 14:40:56,268 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-16
+2021-11-01 14:40:57,011 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-14
+2021-11-01 14:40:57,387 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-13
+2021-11-01 14:40:58,634 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-10
+2021-11-01 14:40:59,113 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-09
+2021-11-01 14:41:01,484 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-03
+2021-11-01 14:41:01,908 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-02
+2021-11-01 14:41:02,312 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2021-10-01
+2021-11-01 14:41:09,355 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 1.8.0_261 on JZ2018C01-0074 with PID 59072 (E:\IdeaWorkSpace\Lilian\demo1\target\classes started by lingling.liu in E:\IdeaWorkSpace\Lilian\demo1)
+2021-11-01 14:41:09,358 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-11-01 14:41:09,359 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2021-11-01 14:41:12,819 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 4.001 seconds (JVM running for 5.115)
+2021-11-01 14:43:07,143 ERROR (IndexController.java:103)- 查询昨日净值失败 navDate=2020-12-30
+2021-11-01 14:43:07,143 ERROR (IndexController.java:110)- 查询七日年化失败 navDate=2020-12-31

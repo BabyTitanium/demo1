@@ -22,13 +22,13 @@ import java.util.*;
 public class ExcelDataUtil {
 	public static void main(String[] args) {
 		try {
-			String fileName = "F:\\fund\\大成基金\\大成基金\\20_25\\25_519022.txt"; //存储文件地址
-			String sheetName = "25_519022";  //sheet名称
-			Long productId = 25L;  //产品id
-			Integer rowStartNum = 1;  //起始行号从0开始
+			String fileName = "F:\\fund\\华夏基金\\HK0000439601_30.txt"; //存储文件地址
+			String sheetName = "AUSD ";  //sheet名称
+			Long productId = 30L;  //产品id
+			Integer rowStartNum = 4;  //起始行号从0开始
 			Integer navDateColNum = 0;  //净值日期列 从0开始
-			Integer navValueColNum = 1; //净值列
-			List<OfficeNavRecord> officeNavRecordList = redExcel("F:\\fund\\大成基金\\大成20_25.xlsx", sheetName, rowStartNum, navDateColNum, navValueColNum);
+			Integer navValueColNum = 3; //净值列
+			List<OfficeNavRecord> officeNavRecordList = redExcel("F:\\fund\\华夏基金\\SFIAF NAV per share AUSD AHKD（华夏精选固定收益配置基金）.xlsx", sheetName, rowStartNum, navDateColNum, navValueColNum);
 			transferListToInsert(officeNavRecordList, productId, fileName);
 		} catch (Exception e) {
 			System.out.println(e);
@@ -55,7 +55,7 @@ public class ExcelDataUtil {
 		XSSFSheet sheetAt = sheets.getSheet(sheetName);
 		//;sheets.getSheetAt(sheetNum - 1);
 		ArrayList<OfficeNavRecord> list = new ArrayList<>();
-		for (int i = rowStartNum; i < sheetAt.getPhysicalNumberOfRows(); i++) {
+		for (int i = rowStartNum; i <= sheetAt.getPhysicalNumberOfRows(); i++) {
 			XSSFRow row = sheetAt.getRow(i);
 			OfficeNavRecord officeNavRecord = new OfficeNavRecord();
 			String navDateStr = getString(row.getCell(navDateColNum));
@@ -72,6 +72,8 @@ public class ExcelDataUtil {
 
 		Integer length = officeNavRecordList.size();
 		FileWriter fileWriter = new FileWriter(fileName);
+		officeNavRecordList.sort((o1, o2) -> o2.getNavDate().compareTo(o1.getNavDate()));
+		System.out.println(officeNavRecordList.get(0).getNavDate());
 		for (int i = 0; i < length; i++) {
 			OfficeNavRecord officeNavRecord = officeNavRecordList.get(i);
 			LocalDate navDate = officeNavRecord.getNavDate();
