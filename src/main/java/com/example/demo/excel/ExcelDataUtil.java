@@ -1,6 +1,9 @@
 package com.example.demo.excel;
 
+import com.alibaba.fastjson.JSONArray;
+import com.alibaba.fastjson.JSONObject;
 import com.example.demo.excel.OfficeNavRecord;
+import org.apache.commons.lang3.StringUtils;
 import org.apache.poi.hssf.usermodel.HSSFDateUtil;
 import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.xssf.usermodel.XSSFCell;
@@ -15,6 +18,7 @@ import java.text.DateFormat;
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
+import java.time.Month;
 import java.time.Period;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
@@ -22,16 +26,19 @@ import java.util.*;
 public class ExcelDataUtil {
 	public static void main(String[] args) {
 		try {
-			String fileName = "F:\\fund\\华夏基金\\HK0000439601_30.txt"; //存储文件地址
-			String sheetName = "AUSD ";  //sheet名称
-			Long productId = 30L;  //产品id
-			Integer rowStartNum = 4;  //起始行号从0开始
+			String fileName = "F:\\fund\\净值\\HK0000301918.txt"; //存储文件地址
+			String excelName = "F:\\fund\\净值\\【HK0000301918】NAV of Aisa Bond Fund.xlsx";
+			String sheetName = "Sheet1";  //sheet名称
+			Long productId = 32L;  //产品id
+			Integer rowStartNum = 7;  //起始行号从0开始
 			Integer navDateColNum = 0;  //净值日期列 从0开始
-			Integer navValueColNum = 3; //净值列
-			List<OfficeNavRecord> officeNavRecordList = redExcel("F:\\fund\\华夏基金\\SFIAF NAV per share AUSD AHKD（华夏精选固定收益配置基金）.xlsx", sheetName, rowStartNum, navDateColNum, navValueColNum);
-			transferListToInsert(officeNavRecordList, productId, fileName);
+			Integer navValueColNum = 1; //净值列
+			Integer fundClass = 1;
+			String seriesNo = "0";
+			List<OfficeNavRecord> officeNavRecordList = redExcel(excelName, sheetName, rowStartNum, navDateColNum, navValueColNum);
+			transferListToInsert(officeNavRecordList, productId, fundClass, seriesNo, fileName);
 		} catch (Exception e) {
-			System.out.println(e);
+			System.out.println(e.getMessage());
 		}
 	}
 
@@ -55,10 +62,14 @@ public class ExcelDataUtil {
 		XSSFSheet sheetAt = sheets.getSheet(sheetName);
 		//;sheets.getSheetAt(sheetNum - 1);
 		ArrayList<OfficeNavRecord> list = new ArrayList<>();
+		System.out.println( sheetAt.getPhysicalNumberOfRows());
 		for (int i = rowStartNum; i <= sheetAt.getPhysicalNumberOfRows(); i++) {
 			XSSFRow row = sheetAt.getRow(i);
 			OfficeNavRecord officeNavRecord = new OfficeNavRecord();
 			String navDateStr = getString(row.getCell(navDateColNum));
+			if (StringUtils.isBlank(navDateStr)) {
+				break;
+			}
 			String offNavStr = getString(row.getCell(navValueColNum));
 			officeNavRecord.setNavDate(LocalDate.parse(navDateStr));
 			officeNavRecord.setOfficeNav(new BigDecimal(offNavStr));
@@ -68,8 +79,15 @@ public class ExcelDataUtil {
 		return list;
 	}
 
-	public static void transferListToInsert(List<OfficeNavRecord> officeNavRecordList, Long productId, String fileName) throws IOException {
+	/**
+	 * INSERT INTO `hs_fund`.`office_nav`(`id`, `fund_class`, `series_no`, `product_id`, `pre_office_nav`, `office_nav`, `nav_date`, `seven_day_income`, `updated_date`, `created_date`, `updated_by`, `created_by`) VALUES (30890, 1, '0', 653, 10.007400, 10.007900, '2020-04-29', 0.018649, '2020-08-25 16:25:47', '2020-08-25 16:25:47', 'system', 'system');
+	 * @param officeNavRecordList
+	 * @param productId
+	 * @param fileName
+	 * @throws IOException
+	 */
 
+	public static void transferListToInsert(List<OfficeNavRecord> officeNavRecordList, Long productId, Integer fundClass, String seriesNo, String fileName) throws IOException {
 		Integer length = officeNavRecordList.size();
 		FileWriter fileWriter = new FileWriter(fileName);
 		officeNavRecordList.sort((o1, o2) -> o2.getNavDate().compareTo(o1.getNavDate()));
@@ -91,15 +109,15 @@ public class ExcelDataUtil {
 				Integer days = Period.between(eightDate, navDate).getDays();
 				sevenDayIncome = offNav.subtract(eightOfficeNav).divide(eightOfficeNav, 10, RoundingMode.HALF_UP).divide(new BigDecimal(days), 10, RoundingMode.HALF_UP).multiply(new BigDecimal(365));
 			}
-			String record = "INSERT INTO `office_nav`( `product_id`, `pre_office_nav`, `office_nav`, `nav_date`, `seven_day_income`, `updated_date`, `created_date`, `updated_by`, `created_by`)" +
-					" VALUES ( " + productId + ", " + preOffNav + ", " + offNav + ", '" + navDate.format(DateTimeFormatter.ofPattern("yyyy-MM-dd")) + "', " + decimalFormat.format(sevenDayIncome) + ", now(),now(), 'system', 'system');\n";
+			String record = "INSERT INTO `office_nav`(`fund_class`, `series_no`, `product_id`, `pre_office_nav`, `office_nav`, `nav_date`, `seven_day_income`, `updated_date`, `created_date`, `updated_by`, `created_by`)" +
+					" VALUES ( " + fundClass + ", '" + seriesNo +"', " + productId + ", " + preOffNav + ", " + offNav + ", '" + navDate.format(DateTimeFormatter.ofPattern("yyyy-MM-dd")) + "', " + decimalFormat.format(sevenDayIncome) + ", now(),now(), 'system', 'system');\n";
 			fileWriter.append(record);
-			System.out.println(record);
+			System.out.println(navDate  + "   " + offNav);
 			if (i == 0) {
-				String current = "INSERT INTO `office_nav_current_data`( `product_id`, `pre_office_nav`, `office_nav`, `nav_date`, `seven_day_income`, `updated_date`, `created_date`, `updated_by`, `created_by`)" +
-						" VALUES ( " + productId + ", " + preOffNav + ", " + offNav + ", '" + navDate.format(DateTimeFormatter.ofPattern("yyyy-MM-dd")) + "', " + decimalFormat.format(sevenDayIncome) + ", now(),now(), 'system', 'system');\n";
+				String current = "INSERT INTO `office_nav_current_data`(`fund_class`, `series_no`, `product_id`, `pre_office_nav`, `office_nav`, `nav_date`, `seven_day_income`, `updated_date`, `created_date`, `updated_by`, `created_by`)" +
+						" VALUES ( " + fundClass + ", '" + seriesNo +"', " + productId + ", " + preOffNav + ", " + offNav + ", '" + navDate.format(DateTimeFormatter.ofPattern("yyyy-MM-dd")) + "', " + decimalFormat.format(sevenDayIncome) + ", now(),now(), 'system', 'system');\n";
 				fileWriter.append(current);
-				System.out.println(current);
+//				System.out.println(current);
 			}
 		}
 		fileWriter.close();
@@ -128,6 +146,24 @@ public class ExcelDataUtil {
 			return String.valueOf(xssfCell.getBooleanCellValue());
 		} else {
 			return xssfCell.getStringCellValue();
+		}
+	}
+
+	public static void main1(String[] args) {
+		int type = 1;
+		int types = type = type | 8192;
+		System.out.println(types);
+	}
+
+	private static int queryQuarter(LocalDate date) {
+		if(date.isBefore(date.with(Month.APRIL).withDayOfMonth(1))) {
+			return 1;
+		} else if(date.isBefore(date.with(Month.JULY).withDayOfMonth(1))) {
+			return 2;
+		} else if(date.isBefore(date.with(Month.NOVEMBER).withDayOfMonth(1))) {
+			return 3;
+		} else {
+			return 4;
 		}
 	}
 
