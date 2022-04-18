@@ -28,6 +28,27 @@ public class OfflineHoldingInfoInit {
         Integer rowStartNum = 1; // 起始行号从0开始
         Integer rowEndNum = 10;
         List<FundHoldingInfoPOJO> fundHoldingInfoPOJOList = getFundHoldingInfoList(filePath, sheetName, rowStartNum, rowEndNum);
+
+        for (FundHoldingInfoPOJO info : fundHoldingInfoPOJOList) {
+            String sql = "insert into fund_holding_info (client_id, product_id, currency_code, start_date, holding_shares," +
+                    "                               total_buy_amount, total_buy_shares, total_buy_fare, total_sell_amount, total_sell_fare," +
+                    "                               diluted_cost, average_cost, updated_date, created_date, created_by, updated_by)" +
+                    "values (" +
+                    info.getClientId() + "," +
+                    info.getProductId() + "," +
+                    "'"+info.getCurrencyCode() + "'," +
+                    "'"+info.getStartDate() + "'," +
+                    info.getHoldingShares() + "," +
+                    info.getTotalBuyAmount() + "," +
+                    info.getTotalBuyShares() + "," +
+                    info.getTotalBuyFare() + "," +
+                    info.getTotalSellAmount() + "," +
+                    info.getTotalSellFare() + "," +
+                    info.getDilutedCost() + "," +
+                    info.getAverageCost() + "," +
+                      "NOW(),NOW(),'SYSTEM','SYSTEM'" +
+                    ");";
+        }
     }
 
     public static List<FundHoldingInfoPOJO> getFundHoldingInfoList (String filePath, String sheetName, Integer rowStartNum, Integer rowEndNum) throws Exception {
@@ -48,7 +69,8 @@ public class OfflineHoldingInfoInit {
             String productIdStr = getString(row.getCell(colNum[1]));
             Long clientId = Long.valueOf(clientIdStr);
             Long productId = Long.valueOf(productIdStr);
-            LocalDate date = LocalDate.parse(getString(row.getCell(3)));
+            LocalDate date = LocalDate.parse(getString(row.getCell(3))); // 清算日期
+            String currencyCode = getString(row.getCell(3)); // 币种
 
             String key = clientIdStr + "_" + productIdStr;
             FundHoldingInfoPOJO fundHoldingInfoPOJO = new FundHoldingInfoPOJO();
@@ -59,6 +81,7 @@ public class OfflineHoldingInfoInit {
                 fundHoldingInfoPOJO.setClientId(clientId);
                 fundHoldingInfoPOJO.setProductId(productId);
                 fundHoldingInfoPOJO.setStartDate(date);
+                fundHoldingInfoPOJO.setCurrencyCode(currencyCode);
                 fundHoldingInfoPOJO.setHoldingShares(BigDecimal.ZERO);
                 fundHoldingInfoPOJO.setTotalBuyAmount(BigDecimal.ZERO);
                 fundHoldingInfoPOJO.setTotalBuyFare(BigDecimal.ZERO);
@@ -69,17 +92,17 @@ public class OfflineHoldingInfoInit {
             }
             String side = getString(row.getCell(colNum[2]));
             if (side.equalsIgnoreCase("BUY")) {
-                BigDecimal buyAmount = new BigDecimal(getString(row.getCell(colNum[3]))); // 包含手续费
-                BigDecimal buyFare = new BigDecimal(getString(row.getCell(colNum[4])));
-                BigDecimal buyShares = new BigDecimal(getString(row.getCell(colNum[5])));
+                BigDecimal buyAmount = new BigDecimal(getString(row.getCell(colNum[3]))); // 申购金额包含手续费
+                BigDecimal buyFare = new BigDecimal(getString(row.getCell(colNum[4]))); //申购手续费
+                BigDecimal buyShares = new BigDecimal(getString(row.getCell(colNum[5]))); // 申购份额
                 fundHoldingInfoPOJO.setHoldingShares(fundHoldingInfoPOJO.getHoldingShares().add(buyShares));
                 fundHoldingInfoPOJO.setTotalBuyAmount(fundHoldingInfoPOJO.getTotalBuyAmount().add(buyAmount));
                 fundHoldingInfoPOJO.setTotalBuyFare(fundHoldingInfoPOJO.getTotalBuyFare().add(buyFare));
                 fundHoldingInfoPOJO.setTotalBuyShares(fundHoldingInfoPOJO.getHoldingShares().add(buyShares));
             } else if (side.equalsIgnoreCase("sell")) {
-                BigDecimal sellAmount = new BigDecimal(getString(row.getCell(colNum[3]))); // 包含手续费
-                BigDecimal sellFare = new BigDecimal(getString(row.getCell(colNum[4])));
-                BigDecimal sellShares = new BigDecimal(getString(row.getCell(colNum[5])));
+                BigDecimal sellAmount = new BigDecimal(getString(row.getCell(colNum[3]))); // 赎回金额包含手续费
+                BigDecimal sellFare = new BigDecimal(getString(row.getCell(colNum[4]))); // 赎回手续费
+                BigDecimal sellShares = new BigDecimal(getString(row.getCell(colNum[5]))); // 赎回份额
                 fundHoldingInfoPOJO.setHoldingShares(fundHoldingInfoPOJO.getHoldingShares().subtract(sellShares));
                 fundHoldingInfoPOJO.setTotalSellAmount(fundHoldingInfoPOJO.getTotalSellAmount().add(sellAmount));
                 fundHoldingInfoPOJO.setTotalSellFare(fundHoldingInfoPOJO.getTotalSellFare().add(sellFare));

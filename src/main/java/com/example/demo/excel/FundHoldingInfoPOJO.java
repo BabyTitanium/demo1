@@ -6,6 +6,7 @@ import java.time.LocalDate;
 public class FundHoldingInfoPOJO {
     private Long clientId;
     private Long productId;
+    private String currencyCode;
     private LocalDate startDate;
     private BigDecimal holdingShares;
     private BigDecimal totalBuyAmount;
@@ -30,6 +31,14 @@ public class FundHoldingInfoPOJO {
 
     public void setProductId(Long productId) {
         this.productId = productId;
+    }
+
+    public String getCurrencyCode() {
+        return currencyCode;
+    }
+
+    public void setCurrencyCode(String currencyCode) {
+        this.currencyCode = currencyCode;
     }
 
     public LocalDate getStartDate() {
