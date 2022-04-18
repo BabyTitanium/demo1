@@ -48,6 +48,7 @@ public class OfflineHoldingInfoInit {
                     info.getAverageCost() + "," +
                       "NOW(),NOW(),'SYSTEM','SYSTEM'" +
                     ");";
+            System.out.println(sql);
         }
     }
 
